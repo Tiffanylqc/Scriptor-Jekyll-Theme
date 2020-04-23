@@ -15,10 +15,10 @@ title: "Tiffany's Blog"
 description: "For tech, life and thoughts.\n All that is gold does not glitter. "
 
 # The subpath of your site, e.g. /blog, for generating urls.
-baseurl: ""
+baseurl: "/blogs"
 
 # The base hostname & protocol of your site for where absolute urls are needed.
-url: "https://tiffanylqc.github.io/blogs"
+url: "https://tiffanylqc.github.io"
 
 # Favicon
 favicon: images/favicon.png
