@@ -12,7 +12,7 @@ lang: en-US
 title: "Tiffany's Blog"
 
 # A description of your site for meta tag, search engine results.
-description: "For tech, life and thoughts.\n All that is gold does not glitter. "
+description: "All that is gold does not glitter. "
 
 # The subpath of your site, e.g. /blog, for generating urls.
 baseurl: "/blogs"
