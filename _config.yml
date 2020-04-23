@@ -70,6 +70,13 @@ sass:
   sass_dir: _sass
   style: compressed
 
-data:
-  author:
-    name: Tiffany
+# data:
+#   author:
+#     name: Tiffany
+
+# data:
+#   social:
+#     links:
+#       title: "Twitter"
+#       icon: "fa-twitter"
+#       url: "https://twitter.com/Tiffany27327706"
