@@ -5,12 +5,14 @@ description: An optional about page for Scriptor Jekyll theme
 feature_image: images/about.jpg
 ---
 
-**John Doe** is a Senior Art Director from [Vilnius](https://en.wikipedia.org/wiki/Vilnius), Lithuania. After graduating from The College of Visual Arts with a degree in Communication Design, he worked for three small graphic design shops where he honed his design style and sensibility.
+**Tiffany(Qingcan) Li** is a Software Engineer at Google. She received her bachelor degrees in Computer Science from [Simon Fraser University](https://www.sfu.ca) in Canada and [Zhejiang University](http://www.zju.edu.cn) in China.
 
-His work has been recognized by Communication Arts, Print, How, ID, IdN, AIGA, Effie, Archive, Graphis, AdFed and Rockport. Graphic Design USA named him a person to watch in 2015.
+During her study in Simon Fraswer University, she had the chance to work in [SFU Data Science Research Group](https://data.cs.sfu.ca) with Prof. [Jiannan Wang](https://www.cs.sfu.ca/~jnwang/). In addition, she did internship at Google Firebase and SAP Analytics Cloud. Her work was highly recognized by colleagues. 
 
->The world always seems brighter when you’ve just made something that wasn’t there before. <cite>Neil Gaiman</cite>
+<!-- >The world always seems brighter when you’ve just made something that wasn’t there before. <cite>Neil Gaiman</cite> -->
 
-As a hobby, John Doe authors the most influential design blog in Lithuania with over 100,000 page views a month. He lives in Vilnius with his beautiful wife, two boys and one girl.
+As a hobby, Tiffany uses this blog to record her lifes covering technology, reading, thoughts and fitness.
+<!-- As a hobby, Tiffany likes reading and travelling. 
+John Doe authors the most influential design blog in Lithuania with over 100,000 page views a month. He lives in Vilnius with his beautiful wife, two boys and one girl. -->
 
 *Thank You for reading!*

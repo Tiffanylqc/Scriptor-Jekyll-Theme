@@ -9,16 +9,16 @@
 lang: en-US
 
 # Site title
-title: "Scriptor"
+title: "Tiffany's Blog"
 
 # A description of your site for meta tag, search engine results.
-description: "Scriptor is a minimal, clean, modern & responsive Jekyll theme for writers"
+description: "For tech, life and thoughts.\n All that is gold does not glitter. "
 
 # The subpath of your site, e.g. /blog, for generating urls.
-baseurl: "/Scriptor-Jekyll-Theme/"
+baseurl: ""
 
 # The base hostname & protocol of your site for where absolute urls are needed.
-url: "https://tiffanylqc.github.io/"
+url: "https://tiffanylqc.github.io/blogs"
 
 # Favicon
 favicon: images/favicon.png
@@ -32,22 +32,22 @@ navigation:
     url: /
   - text: About
     url: /about/
-  - text: Style Guide
-    url: /style-guide/
+  # - text: Style Guide
+  #   url: /style-guide/
   - text: Tags
     url: /tags/
-  - text: Download
-    url: https://github.com/JustGoodThemes/Scriptor-Jekyll-Theme
+  # - text: Download
+  #   url: https://github.com/JustGoodThemes/Scriptor-Jekyll-Theme
 
 # The shortname for your Disqus site to enable comments.
 disqus: justgoodthemes
 
 # Colors
-accent_color: '#2d72d9'
+accent_color: '#a27e7e'
 
 # Site footer
 footer:
-  content: "&copy; Scriptor all rights reserved. Theme by [JustGoodThemes](https://www.justgoodthemes.com)."
+  # content: "&copy; Scriptor all rights reserved. Theme by [JustGoodThemes](https://www.justgoodthemes.com)."
   has_social: true
 
 # Plugins
@@ -69,3 +69,7 @@ markdown: kramdown
 sass:
   sass_dir: _sass
   style: compressed
+
+data:
+  author:
+    name: Tiffany
