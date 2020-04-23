@@ -11,7 +11,7 @@ During her study in Simon Fraswer University, she had the chance to work in [SFU
 
 <!-- >The world always seems brighter when you’ve just made something that wasn’t there before. <cite>Neil Gaiman</cite> -->
 
-As a hobby, Tiffany uses this blog to record her lifes covering technology, reading, thoughts and fitness.
+As a hobby, Tiffany uses this blog to record her life covering technology, reading, thoughts and fitness.
 <!-- As a hobby, Tiffany likes reading and travelling. 
 John Doe authors the most influential design blog in Lithuania with over 100,000 page views a month. He lives in Vilnius with his beautiful wife, two boys and one girl. -->
 
